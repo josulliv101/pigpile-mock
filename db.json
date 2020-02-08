@@ -7,7 +7,8 @@
       "raised": 20,
       "people": 2,
       "description": "The 'Big, Fat Tip' Pigpile gives a little extra cash to a member of a restraunt/bar wait staff.",
-      "organizer": "Joe Sullivan"
+      "organizer": "Joe Sullivan",
+      "image": "https://firebasestorage.googleapis.com/v0/b/pigpile-next-mvp.appspot.com/o/site%2Fbig-fat-tip.png?alt=media&token=ce9148ba-3a10-4cd8-8a09-19dcbbb8f7b3"
     }
   ]
 }
