@@ -6,9 +6,29 @@
       "goal": 100,
       "raised": 20,
       "people": 2,
-      "description": "The 'Big, Fat Tip' Pigpile gives a little extra cash to a member of a restraunt/bar wait staff.",
+      "description": "The Big, Fat Tip Pigpile gives a little extra cash to a member of a restraunt/bar wait staff. This one targets an establishment in Davis Square, Somerville, MA. Once the goal amount is reached, I'll dine somewhere in Davis Square, and whoever happens to be my server that night will be the recipient of a big, fat tip. It's as simple as that.",
       "organizer": "Joe Sullivan",
       "image": "https://firebasestorage.googleapis.com/v0/b/pigpile-next-mvp.appspot.com/o/site%2Fbig-fat-tip.png?alt=media&token=ce9148ba-3a10-4cd8-8a09-19dcbbb8f7b3"
+    },
+    {
+      "id": 2,
+      "title": "Big, Fat Tip",
+      "goal": 100,
+      "raised": 20,
+      "people": 2,
+      "description": "The 'Help a Homeless Young Person' pigpile lends a hand to a a young person in the homeless population. A $100 gift card to a grocery store will be given to a someone who could use a good meal or two. It will be to one of the following: Trader Joe's, Wholefoods, or Dunkin Donuts. None of these places have any affiliation with this fundraiser. The receiver of the giftcard has yet to be determined -- but will most likely go to a female since a female is depicted in the photo (the photo used above is a stock photo). Once our fundraising goal is reached, I'll locate a young person in the homepess person, deliver the gift card, and add an update.",
+      "organizer": "Joe Sullivan",
+      "image": "https://firebasestorage.googleapis.com/v0/b/pigpile-next-mvp.appspot.com/o/site%2Fyoung-guys.png?alt=media&token=d5f0b224-04b9-474e-9460-37d64d486719"
+    },
+    {
+      "id": 3,
+      "title": "Big, Fat Tip",
+      "goal": 100,
+      "raised": 20,
+      "people": 2,
+      "description": "Help a teacher out who has gone the extra mile and bought supplies out-of-pocket again & again for the classroom. ",
+      "organizer": "Joe Sullivan",
+      "image": "https://firebasestorage.googleapis.com/v0/b/pigpile-next-mvp.appspot.com/o/site%2Fhands.png?alt=media&token=7846ca7d-8b75-471a-85c8-309ac589bb15"
     }
   ]
 }
